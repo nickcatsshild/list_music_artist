@@ -1,0 +1,23 @@
+[
+  { "name": "Henrique & Juliano", "musicbrainz_id": "8489814c-8647-4977-96a3-2fc89669532f" },
+  { "name": "Gusttavo Lima", "musicbrainz_id": "060a876a-5494-47ef-bc7d-9477b8973d09" },
+  { "name": "Ana Castela", "musicbrainz_id": "64402322-921c-43f9-8692-719543886561" },
+  { "name": "Luan Santana", "musicbrainz_id": "31ec6965-055a-4934-bc2c-7b089c258d4a" },
+  { "name": "Jorge & Mateus", "musicbrainz_id": "de997970-13f9-4d92-a9b0-966907481977" },
+  { "name": "Zé Neto & Cristiano", "musicbrainz_id": "90598808-7278-4394-912f-924376510398" },
+  { "name": "João Gomes", "musicbrainz_id": "b0682136-239f-4351-872f-537446554589" },
+  { "name": "Tarcísio do Acordeon", "musicbrainz_id": "67f3f1da-58e1-432d-82d2-8f192b005f77" },
+  { "name": "Matheus & Kauan", "musicbrainz_id": "97974309-844c-4c66-9e2c-3965b83984ca" },
+  { "name": "Maiara & Maraisa", "musicbrainz_id": "528574d6-84d5-4752-b27b-201620c3272d" },
+  { "name": "Simone Mendes", "musicbrainz_id": "f10e7401-419b-433b-8260-dc6032d84950" },
+  { "name": "Lauana Prado", "musicbrainz_id": "8d3e6962-d27c-4856-abb4-9b80302de124" },
+  { "name": "Mari Fernandez", "musicbrainz_id": "692c8928-0955-467f-94d3-78f913d80097" },
+  { "name": "Nattan", "musicbrainz_id": "556d3549-3465-43a9-980b-04434229b139" },
+  { "name": "Vitor Fernandes", "musicbrainz_id": "76628b0f-8706-4444-a957-3a1ec0538a2e" },
+  { "name": "Felipe Amorim", "musicbrainz_id": "522108b6-993d-4c33-bec0-349f5791206d" },
+  { "name": "Chitãozinho & Xororó", "musicbrainz_id": "80242250-98ec-4363-95c5-2364c67a57a8" },
+  { "name": "Zezé Di Camargo & Luciano", "musicbrainz_id": "f9076043-41a4-436f-a78b-302a24903332" },
+  { "name": "Bruno & Marrone", "musicbrainz_id": "642d9972-2051-419b-b467-f4e3c8612f0e" },
+  { "name": "Leonardo", "musicbrainz_id": "85533146-27df-48e0-a92c-097d6560914e" },
+  { "name": "Eduardo Costa", "musicbrainz_id": "8c5950d6-1b48-4cb2-834c-6a037b58763f" }
+]
