@@ -1,0 +1,121 @@
+﻿{
+    "created":  "2026-01-21T13:38:30.033Z",
+    "count":  1,
+    "offset":  0,
+    "artists":  [
+                    {
+                        "id":  "59378495-b82b-4def-bb34-0d7c83a58e6e",
+                        "type":  "Group",
+                        "type-id":  "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+                        "score":  100,
+                        "name":  "ChitÃ£ozinho \u0026 XororÃ³",
+                        "sort-name":  "ChitÃ£ozinho \u0026 XororÃ³",
+                        "country":  "BR",
+                        "area":  {
+                                     "id":  "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                                     "type":  "Country",
+                                     "type-id":  "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                                     "name":  "Brazil",
+                                     "sort-name":  "Brazil",
+                                     "life-span":  {
+                                                       "ended":  null
+                                                   }
+                                 },
+                        "life-span":  {
+                                          "begin":  "1970",
+                                          "ended":  null
+                                      },
+                        "aliases":  [
+                                        {
+                                            "sort-name":  "ChitÃ£ozinho e XororÃ³",
+                                            "type-id":  "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                            "name":  "ChitÃ£ozinho e XororÃ³",
+                                            "locale":  null,
+                                            "type":  "Artist name",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "Jose y Durval",
+                                            "name":  "Jose Y Durval",
+                                            "locale":  null,
+                                            "type":  null,
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "ChitÃ£ozionho \u0026 XororÃ³",
+                                            "type-id":  "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                                            "name":  "ChitÃ£ozionho \u0026 XororÃ³",
+                                            "locale":  null,
+                                            "type":  "Search hint",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "Jose y Durval",
+                                            "type-id":  "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                            "name":  "Jose y Durval",
+                                            "locale":  "es",
+                                            "type":  "Artist name",
+                                            "primary":  true,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "Ch \u0026 X",
+                                            "type-id":  "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                            "name":  "Ch \u0026 X",
+                                            "locale":  null,
+                                            "type":  "Artist name",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "Ch\u0026X",
+                                            "type-id":  "894afba6-2816-3c24-8072-eadb66bd04bc",
+                                            "name":  "Ch\u0026X",
+                                            "locale":  null,
+                                            "type":  "Artist name",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "ChirtÃ£ozinho e XororÃ³",
+                                            "type-id":  "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                                            "name":  "ChirtÃ£ozinho e XororÃ³",
+                                            "locale":  null,
+                                            "type":  "Search hint",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        },
+                                        {
+                                            "sort-name":  "Xitaozinho \u0026 Xororo",
+                                            "type-id":  "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                                            "name":  "Xitaozinho \u0026 Xororo",
+                                            "locale":  null,
+                                            "type":  "Search hint",
+                                            "primary":  null,
+                                            "begin-date":  null,
+                                            "end-date":  null
+                                        }
+                                    ],
+                        "tags":  [
+                                     {
+                                         "count":  1,
+                                         "name":  "sertanejo romÃ¢ntico"
+                                     },
+                                     {
+                                         "count":  2,
+                                         "name":  "sertanejo"
+                                     }
+                                 ]
+                    }
+                ]
+}
